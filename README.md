@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EditRox (In Development) 
 ## Abstract
 **EditRox is a pair coding platform, that provides feature to intract with  peers and code at the same time with high quality video and audio calling feature and real time code update feature. You get a feature to compile & run the program. The video calling is supported by WebRTC that provides low latency and also a industry standered. The video call is end to end encrypted, so no need to worry about the security. This app can handle upto 20 participant in a single room and can be scaled upto 100 participant depending upon the business needs. Its infrastructure is equiped with load balancer and reverse proxy that take care of the app at the time of peak load and load scarcity. This web application is lossely coupled and communicate via aws SQS(Simple Queue Service). The most exciting features of this web aplication are listed below:**
